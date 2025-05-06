@@ -1,7 +1,7 @@
 Olá! Bem-vindo ao meu perfil
 
 🔭 Desenvolvendo projetos pessoais
-🌱 Estudando C#,
+🌱 Estudando C# e JavaScript,
 😄 Pronouns: ele/dele
 
 <div align="center">
